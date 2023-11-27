@@ -99,6 +99,15 @@ The target audience of this book is professionals in the area of computer scienc
 
 
 
+### How to run the code
+
+[Google Colab](https://colab.research.google.com/) is a cloud-based platform that allows users to write and execute Python code in a collaborative environment. Running the provided code in Google Colab is straightforward. You can choose a notebook from the book by following this link: 
+
+[Notebooks](https://colab.research.google.com/github/PacktPublishing/Machine-Learning-Techniques-for-Text/)
+
+Notice that a Google account is required.
+
+
 ### Python Libraries & Frameworks Covered
 
 * [ConvoKit](https://convokit.cornell.edu/)
@@ -138,12 +147,11 @@ The target audience of this book is professionals in the area of computer scienc
 * [torchdata](https://pypi.org/project/torchdata/)
 * [torchtext](https://pypi.org/project/torchtext/)
 * [transformers](https://pypi.org/project/transformers/)
-* [trl](https://lvwerra.github.io/trl/)
+* [trl](https://github.com/huggingface/trl)
 * [wget](https://pypi.org/project/wget/)
 * [wikipedia](https://pypi.org/project/wikipedia/)
 * [wikipedia_sections](https://pypi.org/project/wikipedia-sections/)
 * [word_cloud](https://github.com/amueller/word_cloud)
-
 
 
 ### Download a free PDF
